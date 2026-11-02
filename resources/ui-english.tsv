@@ -1,0 +1,404 @@
+职业强度模拟器	Class Strength Simulator
+职业强度\n模拟器	Class Strength\nSimulator
+全阵容模拟	All Lineups
+历史模拟结果	Simulation History
+配置中心	Configuration
+结果对比	Compare Results
+总报告	Overview
+星球	Planets
+地牢	Dungeons
+添加模拟	Add Simulation
+＋ 添加	+ Add
+开始队列	Start Queue
+取消当前	Cancel Current
+暂停	Pause
+继续 / 重试	Resume / Retry
+已暂停	Paused
+已取消	Cancelled
+已完成	Completed
+已跳过	Skipped
+待运行	Pending
+运行中	Running
+失败	Failed
+移除	Remove
+跳过	Skip
+报告	Report
+队列为空	Queue is empty
+模拟设置	Simulation Settings
+最终种子	Final Seeds
+并行核心	Workers
+职业 DPS 排名	Class DPS Ranking
+EPH 排名	EPH Ranking
+实时排行榜	Live Rankings
+最近完成的任务	Latest Completed Runs
+暂无已完成报告	No completed reports
+暂无终测结果	No final results
+暂无结果	No results
+选择历史任务	Select a run
+未完成的任务	Incomplete Runs
+暂无已完成的全量模拟	No completed lineup searches
+缺少该职业结果	No results for this class
+双方前十阵容	Top 10 Lineups
+对应职业 DPS	Class DPS
+最佳 EPH	Best EPH
+变化	Change
+差值	Difference
+指标	Metric
+引擎	Engine
+数据	Data
+旧版	Legacy
+装备	Equipment
+模板档位	Template Tier
+模板基准	Template Tier
+模板	Template
+难度	Difficulty
+最少	Minimum
+最多	Maximum
+职业	Class
+中级 150	Mid 150
+高级 160	High 160
+顶级 170	Top 170
+中级	Mid
+高级	High
+顶级	Top
+阵容配置	Lineup
+职业模板	Class Templates
+装备库	Equipment Library
+可编辑装备库	Equipment Library
+搜索装备名称	Search equipment
+未命名装备	Unnamed item
+新装备名称	New Item Name
+另存为新装备	Save as New Item
+保存装备属性，应用到模拟	Save Item Changes
+恢复此装备内置属性	Restore Built-in Item
+导出当前游戏属性库	Export Game Data
+战斗属性	Combat Stats
+强化增益	Enhancement Bonuses
+＋ 新增词条	+ Add Stat
+删除	Delete
+导入配置	Import
+查看结果	View Results
+手动模拟完成	Simulation Complete
+单队模拟	Single Lineup
+模拟台	Simulation
+配置当前阵容	Configure Lineup
+阵容选择	Select Lineup
+保存的阵容	Saved Lineup
+保存阵容	Save Lineup
+导出阵容	Export Lineup
+已保存阵容	Saved Lineups
+我的阵容	My Lineup
+三人普通地图	3-Player Planet
+五人地牢	5-Player Dungeon
+培养等级	Training Levels
+装备与强化（直接选择装备库中的装备）	Equipment and Enhancement
+技能光环与消耗品选择	Skills, Auras and Consumables
+光环 / 特技	Aura / Special
+普通技能	Regular Skill
+培养	Training
+主属性	Primary
+副属性	Secondary
+完整属性与触发条件	Attributes and Triggers
+编辑参数	Edit
+编辑此职业模板	Edit Template
+编辑职业模板	Edit Class Template
+编辑队员	Edit Member
+保存成员并返回	Save and Return
+复制	Duplicate
+恢复内置模板	Restore Built-in Template
+导出模板	Export Templates
+全部属性	All Attributes
+队员	Member
+团队	Team
+阵容	Lineup
+普通阶段	Normal Waves
+通关	Clears
+失败率	Failure Rate
+死亡	Deaths
+普通地图	Planet
+目标难度	Difficulty
+阵容规模	Party Size
+模拟时长（小时）	Duration (hours)
+随机种子	Random Seed
+开始模拟	Run Simulation
+导出完整结果	Export Full Result
+保存	Save
+刷新	Refresh
+等级	Level
+光环	Aura
+食物	Food
+饮料	Drinks
+武器	Weapon
+副手	Off Hand
+头部	Head
+上衣	Body
+下装	Legs
+鞋	Feet
+手套	Hands
+消耗品囊	Pouch
+项链	Necklace
+耳环	Earrings
+戒指	Ring
+背部	Back
+护符	Charm
+其他装备	Other Gear
+空	Empty
+水	Water
+火	Fire
+自然	Nature
+剑	Sword
+锤	Mace
+枪	Spear
+弓	Bow
+弩	Crossbow
+盾	Shield
+耐力	Stamina
+智力	Intelligence
+攻击	Attack
+防御	Defense
+近战	Melee
+远程	Ranged
+魔法	Magic
+刺击	Stab
+斩击	Slash
+粉碎	Smash
+命中	Accuracy
+闪避	Evasion
+伤害系数	Damage Ratio
+伤害	Damage
+物理	Physical
+水系	Water
+火系	Fire
+增幅	Amplify
+治疗	Healing
+护甲	Armor
+水抗	Water Resistance
+自然抗性	Nature Resistance
+火抗	Fire Resistance
+最大生命	Max HP
+最大法力	Max MP
+暴击率	Critical Rate
+暴击伤害	Critical Damage
+攻击速度加成	Attack Speed
+攻击间隔（秒）	Attack Interval (s)
+施法速度	Cast Speed
+技能急速	Ability Haste
+韧性	Tenacity
+破甲	Armor Penetration
+穿透	Penetration
+生命偷取	Life Steal
+法力偷取	Mana Leech
+每十秒生命回复	HP Regen / 10s
+每十秒法力回复	MP Regen / 10s
+反伤	Thorns
+反击	Retaliation
+仇恨	Threat
+招架	Parry
+混乱重试	Mayhem Retries
+混乱	Mayhem
+诅咒伤害归因	Curse Attribution
+诅咒每层增伤	Curse Damage / Stack
+诅咒	Curse
+愤怒叠层	Fury Stacks
+狂怒	Fury
+愤怒	Fury
+虚弱	Weaken
+弱化	Weaken
+涟漪	Ripple
+绽放	Bloom
+烈焰追加	Blaze
+烈焰	Blaze
+额外食物槽	Extra Food Slots
+额外饮料槽	Extra Drink Slots
+食物急速	Food Haste
+饮料浓缩	Drink Concentration
+普攻伤害	Auto Attack Damage
+技能伤害	Ability Damage
+战斗掉落率	Combat Drop Rate
+稀有掉落率	Rare Find
+战斗掉落数量	Drop Quantity
+战斗经验加成	Combat XP
+经验	XP
+受到伤害加成	Damage Taken
+生命百分比	HP Ratio
+法力百分比	MP Ratio
+任务伤害	Task Damage
+护甲伤害系数	Armor Damage Ratio
+技能吸血	HP Drain
+触发次数	Procs
+叠层事件	Stack Events
+特效伤害	Effect Damage
+额外 DPS 提升	Extra DPS Gain
+额外 DPS	Extra DPS
+原始 DPS	Raw DPS
+归因后 DPS	Attributed DPS
+个人伤害占比	Personal Damage Share
+团队伤害占比	Team Damage Share
+队友伤害转入比例	Teammate Transfer Share
+平均尝试目标	Avg Targets Attempted
+平均命中目标	Avg Targets Hit
+平均额外命中	Avg Extra Hits
+有效治疗	Effective Healing
+每次有效治疗	Healing / Proc
+过量治疗占比	Overheal Share
+治疗占比	Healing Share
+平均层数	Average Stacks
+命中平均层数	Stacks on Hit
+满层覆盖	Max Stack Uptime
+满层命中率	Max Stack Hit Rate
+施加次数	Applications
+减少承伤	Damage Prevented
+减免伤害占比	Damage Prevention
+平均缩减	Average Reduction
+原始 CD	Original CD
+秒	s
+旧版武器统计；新增指标不可用	Legacy weapon stats; new metrics unavailable
+技能	Skill
+特效	Effect
+受治疗队员	Healing Targets
+保护队员	Protected Members
+层伤害	Stack Damage
+自身	Self
+目标敌人	Target Enemy
+全队	All Allies
+全体敌人	All Enemies
+当前生命	Current HP
+缺失生命	Missing HP
+当前法力	Current MP
+缺失法力	Missing MP
+条件	Condition
+初筛	Screening
+全量技能与光环方案	All Skill and Aura Plans
+各职业前20	Top 20 per Class
+前50%	Top 50%
+比较完成：未找到可通关阵容	Completed: no successful lineup
+比较完成	Completed
+配置数据快照缺失	Configuration snapshot missing
+任务引擎版本已变化，请重新添加任务	Engine version changed. Add this task again.
+队列保存失败	Failed to save queue
+请输入新装备名称	Enter a new item name
+装备属性已保存；新模拟将使用修改后的数值。	Item saved. New simulations will use these stats.
+保存失败	Save failed
+阵容已保存	Lineup saved
+导出	Export
+备注	Notes
+高死亡	High Deaths
+缺蓝	Mana Shortage
+次/小时	/ hour
+房屋	Housing
+神龛	Shrines
+成就	Achievements
+触发条件	Triggers
+新增条件	Add Condition
+整队应用档位	Apply Tier to Party
+主修	Primary Skill
+编辑此属性	Edit Attributes
+查看分析	View Analysis
+运行战斗模拟	Run Simulation
+战斗目标	Target
+咖啡选择与调整	Coffee Selection
+消耗品	Consumables
+标准搭配	Standard Build
+站位	Positions
+成功效率	Clear Efficiency
+应用到	Apply to
+全部	All
+查看与	View and
+编辑	Edit
+元素	Elemental
+普通	Normal
+咖啡	Coffee
+究极	Ultra
+暴击	Critical
+触发	Trigger
+槽位	Slots
+种	Seeds
+人	Players
+次	Times
+区间	Interval
+占比	Share
+阻止攻击	Attacks Prevented
+导入成功	Import successful
+已停止	Stopped
+队伍	Party
+角色	Character
+地图	Map
+与消耗品选择	and Consumables
+导出报告	Export Report
+旧版装备明细不可用	Legacy equipment details unavailable
+模拟历史	Run History
+暂无历史模拟	No simulation history
+暂无该职业结果	No results for this class
+展开详情 ⌄	Expand Details ⌄
+收起详情 ⌃	Collapse Details ⌃
+技能 / 光环	Skills / Aura
+队伍 EPH	Party EPH
+队伍 DPS	Party DPS
+队伍表现	Party Performance
+配装与消耗品	Gear and Consumables
+武器特效分析	Weapon Effects
+成功通关	Successful Clears
+失败次数	Failed Attempts
+死亡 / 小时	Deaths / Hour
+耗蓝 / 小时	Mana / Hour
+出现过缺蓝	Mana shortage occurred
+记录	Record
+队友	Teammate
+装备词条	Item Stats
+属性	Attribute
+全程	Overall
+阶段	Phase
+转入伤害	Transferred Damage
+转入 DPS	Transferred DPS
+队友占比	Teammate Share
+命中均层	Stacks on Hit
+平均目标	Avg Targets
+平均命中	Avg Hits
+额外伤害	Extra Damage
+追加伤害	Blaze Damage
+追加 DPS	Blaze DPS
+个人占比	Personal Share
+团队占比	Team Share
+每次治疗	Healing / Proc
+溢出比例	Overheal Share
+反击伤害	Parry Damage
+反击 DPS	Parry DPS
+阻止伤害	Prevented Damage
+减伤比例	Damage Reduction
+重试命中	Retry Hits
+重试伤害	Retry Damage
+重试 DPS	Retry DPS
+DPS 提升	DPS Gain
+层数	Stacks
+原始 CD 占比	Original CD Share
+平均缩减（秒）	Avg Reduction (s)
+当前职业限制没有合法方案	No legal plans match the class limits
+
+各职业前50	Top 50 per Class
+各职业前10	Top 10 per Class
+模拟队列	Simulation Queue
+进行中	In Progress
+职业阵容预览 · 1小时	Composition Preview · 1 Hour
+全量技能与光环 · 1小时	All Skills & Auras · 1 Hour
+各职业前50 · 24小时	Top 50 per Class · 24 Hours
+各职业前10 · 多种子48小时	Top 10 per Class · Multi-seed 48 Hours
+旧版筛选断点不能与新版搜索混用	An older screening checkpoint cannot be used with this search version
+失败：搜索规则已变化，请重新添加任务	Search rules have changed. Add the task again
+
+各职业最佳阵容	Best Party by Profession
+落后最强	Behind Strongest
+最佳难度	Best Difficulty
+最佳阵容	Best Party
+最强	Strongest
+最强：	Strongest: 
+排名	Rank
+详情	Details
+
+本职业技能	Class Skills
+
+同职业总 DPS	Class Total DPS
+同职业总 DPS 排名	Class Total DPS Ranking
+人均 DPS	DPS per Member
+人数	Members
+人均	Per Member
+ 人	 Members

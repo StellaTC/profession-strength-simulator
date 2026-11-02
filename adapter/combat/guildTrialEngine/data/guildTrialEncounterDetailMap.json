@@ -1,0 +1,27 @@
+{
+  "/guild_trial_encounters/badger": {
+    "name": "Trial Badger",
+    "monsterHrids": ["/monsters/trial_badger", "/monsters/trial_badger"]
+  },
+  "/guild_trial_encounters/chameleon": {
+    "name": "Trial Chameleon",
+    "monsterHrids": ["/monsters/trial_chameleon"]
+  },
+  "/guild_trial_encounters/jellyfish": {
+    "name": "Trial Jellyfish",
+    "monsterHrids": ["/monsters/trial_jellyfish"]
+  },
+  "/guild_trial_encounters/hedgehog": {
+    "name": "Trial Hedgehog",
+    "monsterHrids": ["/monsters/trial_hedgehog"]
+  },
+  "/guild_trial_encounters/swarm": {
+    "name": "Trial Swarm",
+    "monsterHrids": [
+      "/monsters/trial_beetle",
+      "/monsters/trial_dragonfly",
+      "/monsters/trial_firefly",
+      "/monsters/trial_wasp"
+    ]
+  }
+}

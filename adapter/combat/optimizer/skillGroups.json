@@ -1,0 +1,679 @@
+{
+  "schemaVersion": 1,
+  "ruleVersion": "2026-08-31.sword-swarm-crippling-slash-primary-v1",
+  "sourceSchemaVersion": 2,
+  "sourceGeneratedAt": "2026-07-18T03:29:56.900Z",
+  "defaultAbilityLevel": 70,
+  "rules": [
+    {
+      "profession": "水",
+      "boss": "badger",
+      "primaryCount": 1,
+      "primary": [
+        "/abilities/mana_spring",
+        "/abilities/elemental_affinity",
+        "/abilities/frost_surge",
+        "/abilities/water_strike"
+      ],
+      "secondary": [
+        "/abilities/elemental_affinity",
+        "/abilities/frost_surge",
+        "/abilities/ice_spear",
+        "/abilities/water_strike"
+      ]
+    },
+    {
+      "profession": "水",
+      "boss": "chameleon",
+      "primaryCount": 14,
+      "primary": [
+        "/abilities/elemental_affinity",
+        "/abilities/precision",
+        "/abilities/frost_surge",
+        "/abilities/water_strike"
+      ],
+      "secondary": [
+        "/abilities/precision",
+        "/abilities/elemental_affinity",
+        "/abilities/mana_spring",
+        "/abilities/water_strike"
+      ]
+    },
+    {
+      "profession": "水",
+      "boss": "jellyfish",
+      "primaryCount": 2,
+      "primary": [
+        "/abilities/mana_spring",
+        "/abilities/ice_spear",
+        "/abilities/frost_surge",
+        "/abilities/water_strike"
+      ],
+      "secondary": [
+        "/abilities/elemental_affinity",
+        "/abilities/ice_spear",
+        "/abilities/frost_surge",
+        "/abilities/water_strike"
+      ]
+    },
+    {
+      "profession": "水",
+      "boss": "hedgehog",
+      "primaryCount": 1,
+      "primary": [
+        "/abilities/precision",
+        "/abilities/mana_spring",
+        "/abilities/frost_surge",
+        "/abilities/water_strike"
+      ],
+      "secondary": [
+        "/abilities/precision",
+        "/abilities/frost_surge",
+        "/abilities/ice_spear",
+        "/abilities/water_strike"
+      ]
+    },
+    {
+      "profession": "水",
+      "boss": "swarm",
+      "primaryCount": 15,
+      "primary": [
+        "/abilities/mana_spring",
+        "/abilities/elemental_affinity",
+        "/abilities/frost_surge",
+        "/abilities/water_strike"
+      ],
+      "secondary": []
+    },
+    {
+      "profession": "火",
+      "boss": "badger",
+      "primaryCount": 10,
+      "primary": [
+        "/abilities/elemental_affinity",
+        "/abilities/smoke_burst",
+        "/abilities/firestorm",
+        "/abilities/fireball"
+      ],
+      "secondary": [
+        "/abilities/smoke_burst",
+        "/abilities/flame_blast",
+        "/abilities/firestorm",
+        "/abilities/fireball"
+      ]
+    },
+    {
+      "profession": "火",
+      "boss": "chameleon",
+      "primaryCount": 7,
+      "primary": [
+        "/abilities/elemental_affinity",
+        "/abilities/precision",
+        "/abilities/smoke_burst",
+        "/abilities/fireball"
+      ],
+      "secondary": [
+        "/abilities/precision",
+        "/abilities/smoke_burst",
+        "/abilities/firestorm",
+        "/abilities/fireball"
+      ]
+    },
+    {
+      "profession": "火",
+      "boss": "jellyfish",
+      "primaryCount": 9,
+      "primary": [
+        "/abilities/elemental_affinity",
+        "/abilities/smoke_burst",
+        "/abilities/flame_blast",
+        "/abilities/fireball"
+      ],
+      "secondary": [
+        "/abilities/smoke_burst",
+        "/abilities/flame_blast",
+        "/abilities/firestorm",
+        "/abilities/fireball"
+      ]
+    },
+    {
+      "profession": "火",
+      "boss": "hedgehog",
+      "primaryCount": 5,
+      "primary": [
+        "/abilities/precision",
+        "/abilities/elemental_affinity",
+        "/abilities/smoke_burst",
+        "/abilities/fireball"
+      ],
+      "secondary": [
+        "/abilities/elemental_affinity",
+        "/abilities/smoke_burst",
+        "/abilities/firestorm",
+        "/abilities/fireball"
+      ]
+    },
+    {
+      "profession": "火",
+      "boss": "swarm",
+      "primaryCount": 11,
+      "primary": [
+        "/abilities/smoke_burst",
+        "/abilities/firestorm",
+        "/abilities/flame_blast",
+        "/abilities/fireball"
+      ],
+      "secondary": [
+        "/abilities/elemental_affinity",
+        "/abilities/smoke_burst",
+        "/abilities/firestorm",
+        "/abilities/fireball"
+      ]
+    },
+    {
+      "profession": "自",
+      "boss": "badger",
+      "primaryCount": 14,
+      "primary": [
+        "/abilities/elemental_affinity",
+        "/abilities/toxic_pollen",
+        "/abilities/life_drain",
+        "/abilities/entangle"
+      ],
+      "secondary": [
+        "/abilities/rejuvenate",
+        "/abilities/precision",
+        "/abilities/toxic_pollen",
+        "/abilities/entangle"
+      ]
+    },
+    {
+      "profession": "自",
+      "boss": "chameleon",
+      "primaryCount": 4,
+      "primary": [
+        "/abilities/rejuvenate",
+        "/abilities/toxic_pollen",
+        "/abilities/life_drain",
+        "/abilities/entangle"
+      ],
+      "secondary": [
+        "/abilities/elemental_affinity",
+        "/abilities/precision",
+        "/abilities/life_drain",
+        "/abilities/entangle"
+      ]
+    },
+    {
+      "profession": "自",
+      "boss": "jellyfish",
+      "primaryCount": 8,
+      "primary": [
+        "/abilities/rejuvenate",
+        "/abilities/toxic_pollen",
+        "/abilities/life_drain",
+        "/abilities/entangle"
+      ],
+      "secondary": [
+        "/abilities/elemental_affinity",
+        "/abilities/precision",
+        "/abilities/life_drain",
+        "/abilities/entangle"
+      ]
+    },
+    {
+      "profession": "自",
+      "boss": "hedgehog",
+      "primaryCount": 4,
+      "primary": [
+        "/abilities/rejuvenate",
+        "/abilities/toxic_pollen",
+        "/abilities/life_drain",
+        "/abilities/entangle"
+      ],
+      "secondary": [
+        "/abilities/precision",
+        "/abilities/elemental_affinity",
+        "/abilities/life_drain",
+        "/abilities/entangle"
+      ]
+    },
+    {
+      "profession": "自",
+      "boss": "swarm",
+      "primaryCount": 2,
+      "primary": [
+        "/abilities/rejuvenate",
+        "/abilities/toxic_pollen",
+        "/abilities/natures_veil",
+        "/abilities/entangle"
+      ],
+      "secondary": [
+        "/abilities/toxic_pollen",
+        "/abilities/natures_veil",
+        "/abilities/life_drain",
+        "/abilities/entangle"
+      ]
+    },
+    {
+      "profession": "剑",
+      "boss": "badger",
+      "primaryCount": 12,
+      "primary": [
+        "/abilities/frenzy",
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/maim"
+      ],
+      "secondary": [
+        "/abilities/precision",
+        "/abilities/berserk",
+        "/abilities/maim",
+        "/abilities/cleave"
+      ]
+    },
+    {
+      "profession": "剑",
+      "boss": "chameleon",
+      "primaryCount": 12,
+      "primary": [
+        "/abilities/precision",
+        "/abilities/frenzy",
+        "/abilities/berserk",
+        "/abilities/maim"
+      ],
+      "secondary": [
+        "/abilities/precision",
+        "/abilities/berserk",
+        "/abilities/maim",
+        "/abilities/crippling_slash"
+      ]
+    },
+    {
+      "profession": "剑",
+      "boss": "jellyfish",
+      "primaryCount": 5,
+      "primary": [
+        "/abilities/precision",
+        "/abilities/berserk",
+        "/abilities/maim",
+        "/abilities/crippling_slash"
+      ],
+      "secondary": [
+        "/abilities/precision",
+        "/abilities/berserk",
+        "/abilities/maim",
+        "/abilities/crippling_slash"
+      ]
+    },
+    {
+      "profession": "剑",
+      "boss": "hedgehog",
+      "primaryCount": 2,
+      "primary": [
+        "/abilities/precision",
+        "/abilities/berserk",
+        "/abilities/crippling_slash",
+        "/abilities/maim"
+      ],
+      "secondary": [
+        "/abilities/precision",
+        "/abilities/frenzy",
+        "/abilities/berserk",
+        "/abilities/maim"
+      ]
+    },
+    {
+      "profession": "剑",
+      "boss": "swarm",
+      "primaryCount": 9,
+      "primary": [
+        "/abilities/crippling_slash",
+        "/abilities/precision",
+        "/abilities/berserk",
+        "/abilities/maim"
+      ],
+      "secondary": [
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/maim",
+        "/abilities/crippling_slash"
+      ]
+    },
+    {
+      "profession": "锤",
+      "boss": "badger",
+      "primaryCount": 12,
+      "primary": [
+        "/abilities/frenzy",
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/fracturing_impact"
+      ],
+      "secondary": [
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/fracturing_impact",
+        "/abilities/sweep"
+      ]
+    },
+    {
+      "profession": "锤",
+      "boss": "chameleon",
+      "primaryCount": 4,
+      "primary": [
+        "/abilities/frenzy",
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/fracturing_impact"
+      ],
+      "secondary": [
+        "/abilities/frenzy",
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/stunning_blow"
+      ]
+    },
+    {
+      "profession": "锤",
+      "boss": "jellyfish",
+      "primaryCount": 3,
+      "primary": [
+        "/abilities/precision",
+        "/abilities/berserk",
+        "/abilities/fracturing_impact",
+        "/abilities/stunning_blow"
+      ],
+      "secondary": [
+        "/abilities/frenzy",
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/stunning_blow"
+      ]
+    },
+    {
+      "profession": "锤",
+      "boss": "hedgehog",
+      "primaryCount": 8,
+      "primary": [
+        "/abilities/frenzy",
+        "/abilities/precision",
+        "/abilities/berserk",
+        "/abilities/fracturing_impact"
+      ],
+      "secondary": [
+        "/abilities/precision",
+        "/abilities/frenzy",
+        "/abilities/berserk",
+        "/abilities/stunning_blow"
+      ]
+    },
+    {
+      "profession": "锤",
+      "boss": "swarm",
+      "primaryCount": 13,
+      "primary": [
+        "/abilities/frenzy",
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/fracturing_impact"
+      ],
+      "secondary": [
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/fracturing_impact",
+        "/abilities/sweep"
+      ]
+    },
+    {
+      "profession": "枪",
+      "boss": "badger",
+      "primaryCount": 11,
+      "primary": [
+        "/abilities/frenzy",
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/puncture"
+      ],
+      "secondary": [
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/puncture",
+        "/abilities/penetrating_strike"
+      ]
+    },
+    {
+      "profession": "枪",
+      "boss": "chameleon",
+      "primaryCount": 13,
+      "primary": [
+        "/abilities/frenzy",
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/puncture"
+      ],
+      "secondary": [
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/puncture",
+        "/abilities/penetrating_strike"
+      ]
+    },
+    {
+      "profession": "枪",
+      "boss": "jellyfish",
+      "primaryCount": 10,
+      "primary": [
+        "/abilities/frenzy",
+        "/abilities/precision",
+        "/abilities/berserk",
+        "/abilities/puncture"
+      ],
+      "secondary": [
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/puncture",
+        "/abilities/penetrating_strike"
+      ]
+    },
+    {
+      "profession": "枪",
+      "boss": "hedgehog",
+      "primaryCount": 13,
+      "primary": [
+        "/abilities/frenzy",
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/puncture"
+      ],
+      "secondary": []
+    },
+    {
+      "profession": "枪",
+      "boss": "swarm",
+      "primaryCount": 7,
+      "primary": [
+        "/abilities/precision",
+        "/abilities/berserk",
+        "/abilities/puncture",
+        "/abilities/penetrating_strike"
+      ],
+      "secondary": [
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/puncture",
+        "/abilities/penetrating_strike"
+      ]
+    },
+    {
+      "profession": "弓",
+      "boss": "badger",
+      "primaryCount": 8,
+      "primary": [
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/pestilent_shot",
+        "/abilities/steady_shot"
+      ],
+      "secondary": [
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/pestilent_shot",
+        "/abilities/penetrating_shot"
+      ]
+    },
+    {
+      "profession": "弓",
+      "boss": "chameleon",
+      "primaryCount": 12,
+      "primary": [
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/pestilent_shot",
+        "/abilities/steady_shot"
+      ],
+      "secondary": [
+        "/abilities/frenzy",
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/pestilent_shot"
+      ]
+    },
+    {
+      "profession": "弓",
+      "boss": "jellyfish",
+      "primaryCount": 5,
+      "primary": [
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/penetrating_shot",
+        "/abilities/steady_shot"
+      ],
+      "secondary": [
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/penetrating_shot",
+        "/abilities/steady_shot"
+      ]
+    },
+    {
+      "profession": "弓",
+      "boss": "hedgehog",
+      "primaryCount": 8,
+      "primary": [
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/pestilent_shot",
+        "/abilities/steady_shot"
+      ],
+      "secondary": [
+        "/abilities/frenzy",
+        "/abilities/precision",
+        "/abilities/berserk",
+        "/abilities/steady_shot"
+      ]
+    },
+    {
+      "profession": "弓",
+      "boss": "swarm",
+      "primaryCount": 10,
+      "primary": [
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/pestilent_shot",
+        "/abilities/penetrating_shot"
+      ],
+      "secondary": [
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/pestilent_shot",
+        "/abilities/rain_of_arrows"
+      ]
+    },
+    {
+      "profession": "弩",
+      "boss": "badger",
+      "primaryCount": 10,
+      "primary": [
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/pestilent_shot",
+        "/abilities/steady_shot"
+      ],
+      "secondary": [
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/pestilent_shot",
+        "/abilities/steady_shot"
+      ]
+    },
+    {
+      "profession": "弩",
+      "boss": "chameleon",
+      "primaryCount": 6,
+      "primary": [
+        "/abilities/frenzy",
+        "/abilities/berserk",
+        "/abilities/pestilent_shot",
+        "/abilities/steady_shot"
+      ],
+      "secondary": [
+        "/abilities/berserk",
+        "/abilities/pestilent_shot",
+        "/abilities/steady_shot",
+        "/abilities/penetrating_shot"
+      ]
+    },
+    {
+      "profession": "弩",
+      "boss": "jellyfish",
+      "primaryCount": 1,
+      "primary": [
+        "/abilities/frenzy",
+        "/abilities/berserk",
+        "/abilities/steady_shot",
+        "/abilities/penetrating_shot"
+      ],
+      "secondary": [
+        "/abilities/frenzy",
+        "/abilities/berserk",
+        "/abilities/pestilent_shot",
+        "/abilities/steady_shot"
+      ]
+    },
+    {
+      "profession": "弩",
+      "boss": "hedgehog",
+      "primaryCount": 3,
+      "primary": [
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/pestilent_shot",
+        "/abilities/steady_shot"
+      ],
+      "secondary": [
+        "/abilities/frenzy",
+        "/abilities/precision",
+        "/abilities/berserk",
+        "/abilities/steady_shot"
+      ]
+    },
+    {
+      "profession": "弩",
+      "boss": "swarm",
+      "primaryCount": 1,
+      "primary": [
+        "/abilities/berserk",
+        "/abilities/pestilent_shot",
+        "/abilities/penetrating_shot",
+        "/abilities/rain_of_arrows"
+      ],
+      "secondary": [
+        "/abilities/berserk",
+        "/abilities/precision",
+        "/abilities/penetrating_shot",
+        "/abilities/rain_of_arrows"
+      ]
+    }
+  ]
+}

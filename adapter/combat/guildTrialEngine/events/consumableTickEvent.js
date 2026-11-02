@@ -1,0 +1,19 @@
+// Derived from StellaTC/milkywayidle-simulation-core @ 8805f411da28d7ad3ab2913a486a6b4e892d67d8.
+import CombatEvent from "./combatEvent.js";
+
+
+class ConsumableTickEvent extends CombatEvent {
+    static type = "consumableTick";
+
+    constructor(time, source, consumable, totalTicks, currentTick) {
+        super(ConsumableTickEvent.type, time);
+
+        this.source = source;
+        this.consumable = consumable;
+        this.totalTicks = totalTicks;
+        this.currentTick = currentTick;
+    }
+}
+
+
+export default ConsumableTickEvent;

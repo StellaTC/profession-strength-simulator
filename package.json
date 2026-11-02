@@ -1,0 +1,1 @@
+{"private":true,"type":"module","scripts":{"adapter":"node scripts/build-adapter.mjs"},"devDependencies":{"esbuild":"0.25.12"},"dependencies":{"heap-js":"2.7.1"}}

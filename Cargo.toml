@@ -1,0 +1,21 @@
+[package]
+name = "lineup-simulator"
+version = "0.4.10"
+edition = "2024"
+[dependencies]
+anyhow = "1"
+egui_extras = { version="0.35", features=["svg","image","file"] }
+eframe = { version = "0.35", features = ["wgpu", "persistence"] }
+serde = { version = "1", features = ["derive", "rc"] }
+serde_json = { version = "1", features = ["preserve_order", "float_roundtrip"] }
+rusqlite = { version = "0.40", features = ["bundled"] }
+chrono = { version = "0.4", features = ["serde"] }
+rand = "0.9"
+rayon = "1"
+rfd = "0.15"
+sha2 = "0.10"
+hex = "0.4"
+flate2 = "1"
+mwi-fastsim = { path = "engine" }
+[profile.release]
+opt-level=3

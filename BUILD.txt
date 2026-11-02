@@ -1,0 +1,11 @@
+职业强度模拟器 源码构建
+
+需要 macOS Apple Silicon、Rust stable 与 Node 22。
+1. npm ci
+2. node scripts/build-adapter.mjs
+3. zsh scripts/provision-runtime.sh（准备 resources/runtime/node；发布包应使用可独立运行的 Node）
+4. zsh scripts/package.sh
+
+输出 outputs/职业强度模拟器.app。
+resources/ 内包含游戏数据、九职业三档模板、原始图标、字体和来源说明；构建不需要旧项目或服务器。
+应用运行无需用户安装 Node；运行时已复制到应用包内。
